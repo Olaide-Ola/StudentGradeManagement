@@ -1,0 +1,11 @@
+C:\Users\Olaide Ogunbunmi\OneDrive - Fast Credit\StudentGrade\StudentGradeManagement\StudentGradeManagement.Core\bin\Debug\net8.0\StudentGradeManagement.Core.deps.json
+C:\Users\Olaide Ogunbunmi\OneDrive - Fast Credit\StudentGrade\StudentGradeManagement\StudentGradeManagement.Core\bin\Debug\net8.0\StudentGradeManagement.Core.dll
+C:\Users\Olaide Ogunbunmi\OneDrive - Fast Credit\StudentGrade\StudentGradeManagement\StudentGradeManagement.Core\bin\Debug\net8.0\StudentGradeManagement.Core.pdb
+C:\Users\Olaide Ogunbunmi\OneDrive - Fast Credit\StudentGrade\StudentGradeManagement\StudentGradeManagement.Core\obj\Debug\net8.0\StudentGradeManagement.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Olaide Ogunbunmi\OneDrive - Fast Credit\StudentGrade\StudentGradeManagement\StudentGradeManagement.Core\obj\Debug\net8.0\StudentGradeManagement.Core.AssemblyInfoInputs.cache
+C:\Users\Olaide Ogunbunmi\OneDrive - Fast Credit\StudentGrade\StudentGradeManagement\StudentGradeManagement.Core\obj\Debug\net8.0\StudentGradeManagement.Core.AssemblyInfo.cs
+C:\Users\Olaide Ogunbunmi\OneDrive - Fast Credit\StudentGrade\StudentGradeManagement\StudentGradeManagement.Core\obj\Debug\net8.0\StudentGradeManagement.Core.csproj.CoreCompileInputs.cache
+C:\Users\Olaide Ogunbunmi\OneDrive - Fast Credit\StudentGrade\StudentGradeManagement\StudentGradeManagement.Core\obj\Debug\net8.0\StudentGradeManagement.Core.dll
+C:\Users\Olaide Ogunbunmi\OneDrive - Fast Credit\StudentGrade\StudentGradeManagement\StudentGradeManagement.Core\obj\Debug\net8.0\refint\StudentGradeManagement.Core.dll
+C:\Users\Olaide Ogunbunmi\OneDrive - Fast Credit\StudentGrade\StudentGradeManagement\StudentGradeManagement.Core\obj\Debug\net8.0\StudentGradeManagement.Core.pdb
+C:\Users\Olaide Ogunbunmi\OneDrive - Fast Credit\StudentGrade\StudentGradeManagement\StudentGradeManagement.Core\obj\Debug\net8.0\ref\StudentGradeManagement.Core.dll
